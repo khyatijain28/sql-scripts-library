@@ -54,4 +54,4 @@ Scripts are modelled around a **pharma manufacturing ERP** — vendors, audits, 
 ## Author
 
 **Khyati Jain** — .NET Developer | C# | ASP.NET MVC | SQL Server  
-[LinkedIn](https://www.linkedin.com/in/khyatijain28) · [GitHub](https://github.com/khyatijain28)
+[LinkedIn](https://www.linkedin.com/in/khyati~jain/) · [GitHub](https://github.com/khyatijain28)
